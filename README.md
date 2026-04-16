@@ -30,7 +30,7 @@
 | ![风景原图](https://img.sipingseo.com/file/line-art-extraction/POKf4bGB.webp) | ![风景线稿](https://img.sipingseo.com/file/line-art-extraction/Y2Jx9msP.webp) |
 
 ### 3. 复杂动物纹理简化
-针对毛发和细节进行智能简化，输出适合涂色或插画底稿的纯净线条
+针对毛发和细节进行智能简化，输出适合涂色或插画底稿的纯净线条 。
 | 动物原图 | AI 优化线稿 |
 | :--- | :--- |
 | ![动物原图](https://img.sipingseo.com/file/line-art-extraction/HyGXfxe5.webp) | ![动物线稿](https://img.sipingseo.com/file/line-art-extraction/UsjrfHW7.webp) |
