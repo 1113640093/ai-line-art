@@ -24,7 +24,7 @@
 | ![人物原图](https://img.sipingseo.com/file/line-art-extraction/bYp5ZdE9.webp) | ![人物线稿](https://img.sipingseo.com/file/line-art-extraction/cJicdRB8.webp) |
 
 ### 2. 风景素描风格转换
-将自然景观转化为富有表现力的铅笔素描，保留远近层次感。
+将自然景观转化为富有表现力的铅笔素描，保留远近层次感
 | 原始风景 | AI 素描线稿 |
 | :--- | :--- |
 | ![风景原图](https://img.sipingseo.com/file/line-art-extraction/POKf4bGB.webp) | ![风景线稿](https://img.sipingseo.com/file/line-art-extraction/Y2Jx9msP.webp) |
