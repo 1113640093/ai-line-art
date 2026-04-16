@@ -18,7 +18,7 @@
 ## 📸 效果展示 (Before & After)
 
 ### 1. 人物肖像线稿提取
-智能识别五官与发型，生成流畅连贯的动漫描线风格。
+智能识别五官与发型，生成流畅连贯的动漫描线风格
 | 原始照片 | AI 提取线稿 |
 | :--- | :--- |
 | ![人物原图](https://img.sipingseo.com/file/line-art-extraction/bYp5ZdE9.webp) | ![人物线稿](https://img.sipingseo.com/file/line-art-extraction/cJicdRB8.webp) |
