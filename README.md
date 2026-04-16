@@ -38,7 +38,7 @@
 ## 🚀 快速开始
 
 1.  **访问工具**：打开 [AI 快速提取线稿](https://www.sipingseo.com/zh/line-art-extract/line-art-extraction)。
-2.  **上传图片**：拖拽图片或点击上传（支持 4K 超清输出）。
+2.  **上传图片**：拖拽图片或点击上传（支持 4K 超清输出）
 3.  **选择模式**：
     *   **Nano Banana Pro**：最火爆的模型，适合动漫与人物描线。
     *   **Flux-Kontext**：经典模型，专攻建筑与精细机械结构。
